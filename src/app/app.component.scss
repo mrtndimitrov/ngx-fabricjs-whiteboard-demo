@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'NotoSansRegular';
+  src: url('../assets/fonts/NotoSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'NotoSansLight';
+  src: url('../assets/fonts/NotoSans-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'BadScriptRegular';
+  src: url('../assets/fonts/BadScript-Regular.ttf') format('truetype');
+}
+
+ngx-fabricjs-whiteboard {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ccc;
+  display: block;
+}
